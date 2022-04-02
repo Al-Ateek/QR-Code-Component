@@ -8,8 +8,8 @@ This is a challenge from Frontend Mentor
 
 ### Links
 
-Live Site URL: [https://al-ateek.github.io/HTML-CSS-Template-Two/]
-Challenge URL: [https://www.graphberry.com/item/kasper-one-page-psd-template]
+Live Site URL: [https://al-ateek.github.io/QR-Code-Component/]
+Challenge URL: [https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H]
 
 ### built with
 
@@ -19,4 +19,4 @@ Challenge URL: [https://www.graphberry.com/item/kasper-one-page-psd-template]
 
 ### Useful resources
 
-- [Frontend Mentor] - (https://elzero.org/) - Improve your Front-End skills my building projects
+- [Frontend Mentor] - (https://www.frontendmentor.io/) - Improve your Front-End skills my building projects
